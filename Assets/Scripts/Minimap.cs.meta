@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 964921c2aee8d5143bd4e5a91bbcd756
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - model: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - playerMaterial: {fileID: 2100000, guid: 5179b7ec9f5b7d7489a07d2226227282, type: 2}
+  - enemiesMaterial: {fileID: 2100000, guid: e958f1ed7f3ee8849bf90594eb5c7d67, type: 2}
+  - gameCamera: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
